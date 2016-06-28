@@ -21,7 +21,7 @@ module.exports = function logger (options) {
     }
   })
 
-  return async function (ctx, next) {
+  return async function kellog (ctx, next) {
     let start = moment(new Date)
 
     await next()

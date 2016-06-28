@@ -1,6 +1,6 @@
 {
   "name": "kellog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple logging middleware for koa2",
   "main": "kellog.js",
   "scripts": {},

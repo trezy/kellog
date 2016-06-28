@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "Simple logging middleware for koa2",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trezy/kellog.git"
   },
-  "author": "",
+  "author": "Trezy <tre@trezy.com>",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/trezy/kellog/issues"
